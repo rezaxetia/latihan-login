@@ -1,0 +1,11 @@
+p{
+    color: red;
+}
+
+p.text-purple{
+    color: purple;
+}
+.tebal{
+    font-weight: bold;
+    font-size: 24px;
+}
